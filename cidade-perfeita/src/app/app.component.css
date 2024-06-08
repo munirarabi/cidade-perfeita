@@ -1,0 +1,31 @@
+.divisor {
+    margin: 20px 10px 0px 10px;
+}
+
+.textos-principal {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #8C0000;
+    line-height: 150px;
+    margin-left: 20px;
+}
+
+.img-mapa {
+    border-radius: 10px;
+}
+
+.mapa-texto {
+    display: flex;
+    justify-content: center;
+}
+
+.span-criadores span {
+    width: 200px;
+}
+
+.span-criadores {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+}
